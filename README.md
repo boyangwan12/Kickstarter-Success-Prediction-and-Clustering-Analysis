@@ -10,6 +10,7 @@ This project analyzes Kickstarter projects to predict their likelihood of succes
 - [Business Insights and Impacts](#business-insights-and-impacts)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
+- [Repository Structure](#repository-structure)
 
 ---
 
