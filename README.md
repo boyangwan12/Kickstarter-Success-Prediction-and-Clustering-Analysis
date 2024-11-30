@@ -80,3 +80,21 @@ The dataset includes Kickstarter project data such as:
 - Incorporate external data (e.g., social media metrics) to improve prediction accuracy.
 - Explore advanced machine learning techniques like XGBoost and deep learning models.
 - Develop personalized recommendation systems for campaign optimization.
+
+---
+## Repository Structure
+
+- **Kickstarter.ipynb**: Jupyter Notebook containing all the analysis and modeling code, including:
+  - Feature engineering
+  - Model selection and evaluation
+  - Clustering techniques
+  - Insights generation
+
+- **data.xlsx**: Dataset used for the project. Contains features related to Kickstarter campaigns, such as funding goals, category, and campaign duration.
+
+- **report.pdf**: A detailed report summarizing the project, including:
+  - Data preprocessing steps
+  - Feature engineering and selection
+  - Predictive modeling techniques and results
+  - Clustering analysis and business strategy recommendations
+  - Cluster-specific insights with actionable suggestions
