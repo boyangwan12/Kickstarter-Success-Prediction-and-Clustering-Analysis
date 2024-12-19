@@ -1,5 +1,24 @@
 # Kickstarter Success Prediction and Clustering Analysis
 
+## Technologies and Skills
+### Technologies Used:
+- 🐍 **Programming Languages**: Python
+- 📚 **Libraries and Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+- 🧪 **Dimensionality Reduction**: Principal Component Analysis (PCA)
+- 📊 **Machine Learning Models**: Logistic Regression, KMeans Clustering
+- 📝 **Documentation**: Detailed project reporting in PDF format
+
+### Skills Demonstrated:
+- 🧹 **Data Preprocessing**: Cleaning, normalizing, and transforming features for accurate modeling.
+- 🤖 **Predictive Modeling**: Building classification models to predict project success with high accuracy.
+- 📉 **Clustering Analysis**: Segmenting successful Kickstarter projects into actionable groups using PCA and KMeans.
+- 🔍 **Feature Engineering and Selection**: Identifying the most impactful features using LASSO and Random Forest methods.
+- 📈 **Data Visualization**: Creating clear and compelling visuals to present findings and insights.
+- 💡 **Business Strategy Development**: Deriving actionable insights and tailored recommendations for Kickstarter creators.
+- 🤝 **Collaboration**: Coordinating with team members to ensure robust analysis and effective reporting.
+- 🎤 **Communication**: Delivering project results through well-structured presentations and detailed documentation.
+
+
 ## Overview
 This project analyzes Kickstarter projects to predict their likelihood of success and clusters successful projects into distinct groups. By leveraging data-driven insights, the analysis helps project creators optimize their campaigns for maximum impact.
 
